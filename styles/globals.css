@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700;900&display=swap');
+body {
+  background-color: #F4F0EC;
+  font-family: 'Nunito Sans', sans-serif;
+}
+.text-primary, .text-secondary {
+  color: #9A9A9A;
+}
+.text-active {
+  color: black;
+}
+.ml-361 {
+  margin-left: 361px;
+}
+.font-15 {
+  font-size: 15px;
+}
+.font-20 {
+  font-size: 20px;
+}
+.font-25 {
+  font-size: 25px;
+}
+.font-30 {
+  font-size: 30px;
+}
+.font-35 {
+  font-size: 35px;
+}
+.color-footer-contact {
+  color: #747474;
+}
+.color-black {
+  background-color: black;
+}
+.color-navy {
+  background-color: #002260;
+}
+.color-grey {
+  background-color: #AFAFAF;
+}
+.color-cream {
+  background-color: #E1D5B7;
+}
+.custom-ul {
+  color: white;
+}
+.lh-35 {
+  line-height: 35px;
+}
+.border-b-1 {
+  border-bottom: 1px solid black;
+}
+.border-1 {
+  border: 1px solid black;
+}
+.border-input-cart {
+  border: 1px solid #F4F0EC;
+}
+.color-button-disable {
+  background-color: #B2B2B2;
+}
+.height-category {
+  height: 562px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.backdrop {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  z-index: 1;
+}
+
+#parent .hidden-child{
+  visibility: hidden;
+}
+
+#parent:hover .hidden-child{
+  visibility: visible;
+}
+
+.logo {
+  -webkit-text-stroke: 1px white;
+  /* -webkit-text-fill-color: white; */
+}
+.bg-whatsapp {
+  background-color: #075e54;
+}
+
+.bg-main-color {
+  background-color: #3091EC;
+}
+.text-main-color {
+  color: #3091EC;
+}
+.bg-main-color:hover {
+  color: white
+}

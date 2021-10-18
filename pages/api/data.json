@@ -1,0 +1,1012 @@
+{
+  "data": {
+    "id": "1234567",
+    "name": "Product",
+    "items": [
+      {
+        "id": "12po02932904",
+        "name": "Long Sleeve Knit Pullover",
+        "category": "him",
+        "price": "Rp. 3.498.391",
+        "colors": [
+          {
+            "id": "1232432r",
+            "name": "Hitam",
+            "color": "black"
+          },
+          {
+            "id": "1232432q",
+            "name": "Navy",
+            "color": "navy"
+          },
+          {
+            "id": "1232432w",
+            "name": "Abu-Abu",
+            "color": "grey"
+          }
+        ],
+        "sizes": [
+          {
+            "id": "2131fds12",
+            "name": "Small",
+            "symbol": "S"
+          },
+          {
+            "id": "2131fdf",
+            "name": "Medium",
+            "symbol": "M"
+          },
+          {
+            "id": "2131fds222",
+            "name": "Large",
+            "symbol": "L"
+          },
+          {
+            "id": "2131fdx",
+            "name": "Extra Large",
+            "symbol": "XL"
+          }
+        ],
+        "measurements": [
+          [
+              {
+                "id": "8543674fs",
+                "name": "Shoulder Width"
+              },
+              {
+                "centimeter": 39,
+                "inchi": 20
+              },
+              {
+                "centimeter": 40,
+                "inchi": 20
+              },
+              {
+                "centimeter": 41,
+                "inchi": 20
+              },
+              {
+                "centimeter": 42,
+                "inchi": 20
+              }
+            ],
+            [
+              { 
+                "id": "8543674fe",
+                "name": "Chest"
+              },
+              {
+                "centimeter": 49,
+                "inchi": 21
+              },
+              {
+                "centimeter": 52,
+                "inchi": 21
+              },
+              {
+                "centimeter": 55,
+                "inchi": 21
+              },
+              {
+                "centimeter": 58,
+                "inchi": 21
+              }
+            ],
+            [
+              {
+                "id": "8543674fr",
+                "name": "Body Length"
+              },
+              {
+                "centimeter": 67.5,
+                "inchi": 22
+              },
+              {
+                "centimeter": 69,
+                "inchi": 22
+              },
+              {
+                "centimeter": 70.5,
+                "inchi": 22
+              },
+              {
+                "centimeter": 72,
+                "inchi": 22
+              }
+            ],
+            [
+              {
+                "id": "8543674fq",
+                "name": "Sleeve Length"
+              },
+              {
+                "centimeter": 67.5,
+                "inchi": 23
+              },
+              {
+                "centimeter": 68,
+                "inchi": 23
+              },
+              {
+                "centimeter": 68.5,
+                "inchi": 23
+              },
+              {
+                "centimeter": 69,
+                "inchi": 23
+              }
+            ]
+        ],
+        "images": [
+          {
+            "id": "r435432e",
+            "imageUrl": "/assets/1as.png",
+            "name": "Produk 1A"
+          },
+          {
+            "id": "r435432g",
+            "imageUrl": "/assets/1bs.png",
+            "name": "Produk 1B"
+          },
+          {
+            "id": "r435432q",
+            "imageUrl": "/assets/1cs.png",
+            "name": "Produk 1C"
+          },
+          {
+            "id": "r435432w",
+            "imageUrl": "/assets/1ds.png",
+            "name": "Produk 1D"
+          }
+        ],
+        "features": [
+          {
+            "id": "4385734324s",
+            "feature": "Tailored for those who expect the highest of quality and fit of their knitwear"
+          },
+          {
+            "id": "4385734324e",
+            "feature": "Combined cotton yarns define a unique aesthetic ad comfort"
+          },
+          {
+            "id": "4385734324w",
+            "feature": "Refined ribbed trim collar"
+          },
+          {
+            "id": "4385734324d",
+            "feature": "Knit transfer at sleeve cuffs"
+          },
+          {
+            "id": "4385734324c",
+            "feature": "Wear it with our blazer or any of your other essential wardrobe pieces"
+          },
+          {
+            "id": "4385734324z",
+            "feature": "Fits true to size – take your normal size"
+          },
+          {
+            "id": "4385734324ww",
+            "feature": "This product is designed as a classic fit"
+          }
+        ],
+        "composition": [
+          {
+            "id": "98r437584fh",
+            "name": "100% mercerized jersey cotton - front panel"
+          },
+          {
+            "id": "98r437584er",
+            "name": "100% supima combed cotton yarn – back panel and sleeves Made in Italy"
+          }
+        ]
+      },
+      {
+        "id": "12po029329042",
+        "name": "Flat Front Knit Pant",
+        "price": "Rp. 6.784.781",
+        "category": "him",
+        "colors": [
+          {
+            "id": "1232432r2",
+            "name": "Hitam",
+            "color": "black"
+          },
+          {
+            "id": "1232432q2",
+            "name": "Navy",
+            "color": "navy"
+          },
+          {
+            "id": "1232432w2",
+            "name": "Abu-Abu",
+            "color": "grey"
+          }
+        ],
+        "sizes": [
+          {
+            "id": "2131fds2",
+            "name": "Small",
+            "symbol": "S"
+          },
+          {
+            "id": "2131fdf2",
+            "name": "Medium",
+            "symbol": "M"
+          },
+          {
+            "id": "2131fds21",
+            "name": "Large",
+            "symbol": "L"
+          },
+          {
+            "id": "2131fdx2",
+            "name": "Extra Large",
+            "symbol": "XL"
+          }
+        ],
+        "measurements": [
+          [
+              {
+                "id": "8543674rs2",
+                "name": "Shoulder Width"
+              },
+              {
+                "centimeter": 40,
+                "inchi": 20
+              },
+              {
+                "centimeter": 42,
+                "inchi": 20
+              },
+              {
+                "centimeter": 44,
+                "inchi": 20
+              },
+              {
+                "centimeter": 46,
+                "inchi": 20
+              }
+            ],
+            [
+              {
+                "id": "8543674re2",
+                "name": "Chest"
+              },
+              {
+                "centimeter": 70.5,
+                "inchi": 21
+              },
+              {
+                "centimeter": 71,
+                "inchi": 21
+              },
+              {
+                "centimeter": 71.5,
+                "inchi": 21
+              },
+              {
+                "centimeter": 72,
+                "inchi": 21
+              }
+            ], 
+            [
+              {
+                "id": "8543674rr2",
+                "name": "Body Length"
+              },
+              {
+                "centimeter": 27,
+                "inchi": 22
+              },
+              {
+                "centimeter": 27.5,
+                "inchi": 22
+              },
+              {
+                "centimeter": 28,
+                "inchi": 22
+              },
+              {
+                "centimeter": 28.5,
+                "inchi": 22
+              }
+            ],
+            [
+              {
+                "id": "8543674rq2",
+                "name": "Sleeve Length"
+              },
+              {
+                "centimeter": 40,
+                "inchi": 20
+              },
+              {
+                "centimeter": 36,
+                "inchi": 23
+              },
+              {
+                "centimeter": 36.5,
+                "inchi": 23
+              },
+              {
+                "centimeter": 37,
+                "inchi": 23
+              }
+            ]
+        ],
+        "images": [
+          {
+            "id": "r435432e2",
+            "imageUrl": "/assets/2as.png",
+            "name": "Produk 2A"
+          },
+          {
+            "id": "r435432g2",
+            "imageUrl": "/assets/2bs.png",
+            "name": "Produk 2B"
+          },
+          {
+            "id": "r435432q2",
+            "imageUrl": "/assets/2cs.png",
+            "name": "Produk 2C"
+          },
+          {
+            "id": "r435432w2",
+            "imageUrl": "/assets/2ds.png",
+            "name": "Produk 2D"
+          }
+        ],
+        "features": [
+          {
+            "id": "4385734324s2",
+            "feature": "Wardrobe staple, elevated in fit and reimagined in material"
+          },
+          {
+            "id": "4385734324e2",
+            "feature": "Wear it with our blazer as a full suit, or paired with a t-shirt and sneakers for elevated casual"
+          },
+          {
+            "id": "4385734324w2",
+            "feature": "Constructed knit waistband with hidden snap and zip fly closure"
+          },
+          {
+            "id": "4385734324d2",
+            "feature": "Side pockets, tapered leg opening"
+          },
+          {
+            "id": "4385734324c2",
+            "feature": "Fits true to size – take your normal size"
+          },
+          {
+            "id": "4385734324z2",
+            "feature": "This product is designed as a classic fit"
+          }
+        ],
+        "composition": [
+          {
+            "id": "98r437584fh2",
+            "name": "100% two-ply Peruvian Pima cotton yarn"
+          },
+          {
+            "id": "98r437584er2",
+            "name": "Made in Italy"
+          }
+        ]
+      },
+      {
+        "id": "12po029329043",
+        "name": "Two Button Unlined Knit Blazer",
+        "category": "her",
+        "price": "Rp. 10.355.718",
+        "colors": [
+          {
+            "id": "1232432r3",
+            "name": "Hitam",
+            "color": "black"
+          },
+          {
+            "id": "1232432q3",
+            "name": "Navy",
+            "color": "navy"
+          },
+          {
+            "id": "1232432w3",
+            "name": "Abu-Abu",
+            "color": "grey"
+          }
+        ],
+        "sizes": [
+          {
+            "id": "2131fds33",
+            "name": "Small",
+            "symbol": "S"
+          },
+          {
+            "id": "2131fdf3",
+            "name": "Medium",
+            "symbol": "M"
+          },
+          {
+            "id": "2131fds3",
+            "name": "Large",
+            "symbol": "L"
+          },
+          {
+            "id": "2131fdx3",
+            "name": "Extra Large",
+            "symbol": "XL"
+          }
+        ],
+        "measurements": [
+            [
+              {
+                "id": "8543674fs3",
+                "name": "Shoulder Width"
+              },
+              {
+                "centimeter": 36,
+                "inchi": 20
+              },
+              {
+                "centimeter": 37,
+                "inchi": 20
+              },
+              {
+                "centimeter": 38,
+                "inchi": 20
+              },
+              {
+                "centimeter": 39,
+                "inchi": 20 
+              }
+            ],
+            [
+              {
+                "id": "8543674fe3",
+                "name": "Chest"
+              },
+              {
+                "centimeter": 35,
+                "inchi": 21
+              },
+              {
+                "centimeter": 47,
+                "inchi": 21
+              },
+              {
+                "centimeter": 50,
+                "inchi": 21
+              },
+              {
+                "centimeter": 53,
+                "inchi": 21
+              }
+            ],
+            [
+              {
+                "id": "8543674fwqe3",
+                "name": "Waist"
+              },
+              {
+                "centimeter": 39,
+                "inchi": 21
+              },
+              {
+                "centimeter": 45,
+                "inchi": 21
+              },
+              {
+                "centimeter": 48,
+                "inchi": 21
+              },
+              {
+                "centimeter": 51,
+                "inchi": 21
+              }
+            ],
+            [
+              {
+                "id": "8543674fr3",
+                "name": "Body Length"
+              },
+              {
+                "centimeter": 75.5,
+                "inchi": 22
+              },
+              {
+                "centimeter": 77.5,
+                "inchi": 22
+              },
+              {
+                "centimeter": 79,
+                "inchi": 22
+              },
+              {
+                "centimeter": 80.5,
+                "inchi": 22 
+              }
+            ],
+            [
+              {
+                "id": "8543674fq3",
+                "name": "Sleeve Length"
+              },
+              {
+                "centimeter": 58.5,
+                "inchi": 23
+              },
+              {
+                "centimeter": 59.5,
+                "inchi": 23
+              },
+              {
+                "centimeter": 60,
+                "inchi": 23
+              },
+              {
+                "centimeter": 60.5,
+                "inchi": 23
+              }
+            ]
+        ],
+        "images": [
+          {
+            "id": "r435432e3",
+            "imageUrl": "/assets/3as.png",
+            "name": "Produk 3A"
+          },
+          {
+            "id": "r435432g3",
+            "imageUrl": "/assets/3bs.png",
+            "name": "Produk 3B"
+          },
+          {
+            "id": "r435432q3",
+            "imageUrl": "/assets/3cs.png",
+            "name": "Produk 3C"
+          },
+          {
+            "id": "r435432w3",
+            "imageUrl": "/assets/3ds.png",
+            "name": "Produk 3D"
+          }
+        ],
+        "features": [
+          {
+            "id": "4385734324s3",
+            "feature": "The tailoring of a blazer, the ease of a sweater"
+          },
+          {
+            "id": "4385734324e3",
+            "feature": "Milano stitch creates a compact, structured form, enabling the unlined interior"
+          },
+          {
+            "id": "4385734324w3",
+            "feature": "Two button front closure with complimentary button detailing at cuffs"
+          },
+          {
+            "id": "4385734324d3",
+            "feature": "Two exterior patch pockets"
+          },
+          {
+            "id": "4385734324c3",
+            "feature": "Fits true to size – take your normal size"
+          },
+          {
+            "id": "4385734324z3",
+            "feature": "This product is designed as a classic fit"
+          }
+        ],
+        "composition": [
+          {
+            "id": "98r437584fh3",
+            "name": "100% two-ply Peruvian Pima cotton yarn"
+          },
+          {
+            "id": "98r437584er3",
+            "name": "Made in Italy"
+          }
+        ]
+      },
+      {
+        "id": "12po029329044",
+        "name": "Flat Front Knit Pant",
+        "category": "her",
+        "price": "Rp. 6.784.781",
+        "colors": [
+          {
+            "id": "1232432r4",
+            "name": "Hitam",
+            "color": "black"
+          },
+          {
+            "id": "1232432q4",
+            "name": "Navy",
+            "color": "navy"
+          },
+          {
+            "id": "1232432w4",
+            "name": "Abu-Abu",
+            "color": "grey"
+          }
+        ],
+        "sizes": [
+          {
+            "id": "2131fds4",
+            "name": "Small",
+            "symbol": "S"
+          },
+          {
+            "id": "2131fdf4",
+            "name": "Medium",
+            "symbol": "M"
+          },
+          {
+            "id": "2131fds44",
+            "name": "Large",
+            "symbol": "L"
+          },
+          {
+            "id": "2131fdx4",
+            "name": "Extra Large",
+            "symbol": "XL"
+          }
+        ],
+        "measurements": [
+          [
+              {
+                "id": "8543674fs4",
+                "name": "Waist"
+              },
+              {
+                "centimeter": 33,
+                "inchi": 20
+              },
+              {
+                "centimeter": 37,
+                "inchi": 20
+              },
+              {
+                "centimeter": 38,
+                "inchi": 20
+              },
+              {
+                "centimeter": 39,
+                "inchi": 20
+              }
+            ],
+            [
+              {
+                "id": "8543674fe4",
+                "name": "Hip"
+              },
+              {
+                "centimeter": 35,
+                "inchi": 21
+              },
+              {
+                "centimeter": 47,
+                "inchi": 21
+              },
+              {
+                "centimeter": 50,
+                "inchi": 21
+              },
+              {
+                "centimeter": 53,
+                "inchi": 21
+              }
+            ],
+            [
+              {
+                "id": "8543674fwqe4",
+                "name": "Insearn"
+              },
+              {
+                "centimeter": 39,
+                "inchi": 21
+              },
+              {
+                "centimeter": 45,
+                "inchi": 21
+              },
+              {
+                "centimeter": 48,
+                "inchi": 21
+              },
+              {
+                "centimeter": 51,
+                "inchi": 21
+              }
+            ],
+            [
+              {
+                "id": "8543674fr4",
+                "name": "Rise"
+              },
+              {
+                "centimeter": 75.5,
+                "inchi": 22
+              },
+              {
+                "centimeter": 77.5,
+                "inchi": 22
+              },
+              {
+                "centimeter": 79,
+                "inchi": 22
+              },
+              {
+                "centimeter": 80.5,
+                "inchi": 22
+              }
+            ]
+        ],
+        "images": [
+          {
+            "id": "r435432e4",
+            "imageUrl": "/assets/4as.png",
+            "name": "Produk 4A"
+          },
+          {
+            "id": "r435432g4",
+            "imageUrl": "/assets/4bs.png",
+            "name": "Produk 4B"
+          },
+          {
+            "id": "r435432q4",
+            "imageUrl": "/assets/4cs.png",
+            "name": "Produk 4C"
+          },
+          {
+            "id": "r435432w4",
+            "imageUrl": "/assets/4ds.png",
+            "name": "Produk 4D"
+          }
+        ],
+        "features": [
+          {
+            "id": "4385734324s4",
+            "feature": "Wardrobe staple, elevated in fit and reimagined in material"
+          },
+          {
+            "id": "4385734324e4",
+            "feature": "Wear it with our blazer as a full suit, or paired with a t-shirt and sneakers for elevated casual"
+          },
+          {
+            "id": "4385734324w4",
+            "feature": "Constructed knit waistband with hidden snap and zip fly closure"
+          },
+          {
+            "id": "4385734324d4",
+            "feature": "Two exterior patch pockets"
+          },
+          {
+            "id": "4385734324c4",
+            "feature": "Side pockets"
+          },
+          {
+            "id": "4385734324z4",
+            "feature": "Tapered leg"
+          },
+          {
+            "id": "4385734324zq4",
+            "feature": "Fits true to size – take your normal size"
+          },
+          {
+            "id": "4385734324ze4",
+            "feature": "This product is designed as a classic fit"
+          }
+        ],
+        "composition": [
+          {
+            "id": "98r437584fh4",
+            "name": "100% two-ply Peruvian Pima cotton yarn"
+          },
+          {
+            "id": "98r437584er4",
+            "name": "Made in Italy"
+          }
+        ]
+      },
+      {
+        "id": "12po029329045",
+        "name": "Fine Knit Slip Dress",
+        "category": "her",
+        "price": "Rp. 4.642.218",
+        "colors": [
+          {
+            "id": "1232432r5",
+            "name": "Hitam",
+            "color": "black"
+          },
+          {
+            "id": "1232432q5",
+            "name": "Navy",
+            "color": "navy"
+          },
+          {
+            "id": "1232432w5",
+            "name": "Abu-Abu",
+            "color": "grey"
+          },
+          {
+            "id": "1232432c5",
+            "name": "Krem",
+            "color": "cream"
+          }
+        ],
+        "sizes": [
+          {
+            "id": "2131fds423",
+            "name": "Small",
+            "symbol": "S"
+          },
+          {
+            "id": "2131fdf4",
+            "name": "Medium",
+            "symbol": "M"
+          },
+          {
+            "id": "2131fds465",
+            "name": "Large",
+            "symbol": "L"
+          },
+          {
+            "id": "2131fdx4",
+            "name": "Extra Large",
+            "symbol": "XL"
+          }
+        ],
+        "measurements": [
+          [
+              {
+                "id": "8543674fe5",
+                "name": "Chest"
+              },
+              {
+                "centimeter": 35,
+                "inchi": 21
+              },
+              {
+                "centimeter": 47,
+                "inchi": 21
+              },
+              {
+                "centimeter": 50,
+                "inchi": 21
+              },
+              {
+                "centimeter": 53,
+                "inchi": 21
+              }
+            ],
+            [
+              {
+                "id": "8543674fs5",
+                "name": "Waist"
+              },
+              {
+                "centimeter": 36,
+                "inchi": 20
+              },
+              {
+                "centimeter": 37,
+                "inchi": 20
+              },
+              {
+                "centimeter": 38,
+                "inchi": 20
+              },
+              {
+                "centimeter": 39,
+                "inchi": 20
+              }
+            ],
+            [
+              {
+                "id": "8543674fw5e4",
+                "name": "Body Length"
+              },
+              {
+                "centimeter": 39,
+                "inchi": 21
+              },
+              {
+                "centimeter": 45,
+                "inchi": 21
+              },
+              {
+                "centimeter": 48,
+                "inchi": 21
+              },
+              {
+                "centimeter": 51,
+                "inchi": 21
+              }
+            ],
+            [
+              {
+                "id": "8543674fr5",
+                "name": "Hip"
+              },
+              {
+                "centimeter": 75.5,
+                "inchi": 22
+              },
+              {
+                "centimeter": 77.5,
+                "inchi": 34
+              },
+              {
+                "centimeter": 79,
+                "inchi": 53
+              },
+              {
+                "centimeter": 80.5,
+                "inchi": 31
+              }
+            ]
+        ],
+        "images": [
+          {
+            "id": "r435432e5",
+            "imageUrl": "/assets/5as.png",
+            "name": "Produk 5A"
+          },
+          {
+            "id": "r435432g5",
+            "imageUrl": "/assets/5bs.png",
+            "name": "Produk 5B"
+          },
+          {
+            "id": "r435432q5",
+            "imageUrl": "/assets/5cs.png",
+            "name": "Produk 5C"
+          },
+          {
+            "id": "r435432w5",
+            "imageUrl": "/assets/5ds.png",
+            "name": "Produk 5D"
+          }
+        ],
+        "features": [
+          {
+            "id": "4385734324s5",
+            "feature": "Classic, eﬀortless silhouette suitable for day or night"
+          },
+          {
+            "id": "4385734324e5",
+            "feature": "Features a sweetheart neckline, trimmed in matching knit"
+          },
+          {
+            "id": "4385734324w5",
+            "feature": "Continuous integrated knit straps for security, seamless design, and comfort"
+          },
+          {
+            "id": "4385734324d5",
+            "feature": "Hem detail in matching knit with slit detail for comfort and elegance"
+          },
+          {
+            "id": "4385734324c5",
+            "feature": "Fits true to size – take your normal size"
+          },
+          {
+            "id": "4385734324z5",
+            "feature": "This product is designed as a classic fit"
+          }
+        ],
+        "composition": [
+          {
+            "id": "98r437584fh5",
+            "name": "100% two-ply Peruvian Pima cotton yarn"
+          },
+          {
+            "id": "98r437584er5",
+            "name": "Made in Italy"
+          }
+        ]
+      }
+    ]
+  }
+}
